@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RexHolliday
 - 👀 I’m interested in Bitcoin and the Lightning network.
-- 🌱 I’m currently learning Python and Rust.
+- 🌱 I’m currently learning Javascript and Rust.
 - 💞️ I’m looking to collaborate on Bitcoin related projects.
 - 📫 How to reach me rexh at pm.me
 
